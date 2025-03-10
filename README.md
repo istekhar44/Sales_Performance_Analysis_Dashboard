@@ -29,10 +29,12 @@ Develop a **comprehensive and interactive** Power BI dashboard for detailed sale
 - **Power BI Service** – Cloud-based dashboard sharing and collaboration.
 
 ## 📷 Dashboard Screenshot
-![Sales Dashboard](Screenshot 2024-07-13 132836 (1).png)
+<img width="960" alt="Dashboard_ScreenShort" src="https://github.com/user-attachments/assets/55b7b5ca-ff29-4c27-9a1c-5cef1925f9f9" />
+
 
 ## 📂 Project Documentation & Demo
-🔗 [Project Document Link](https://drive.google.com/drive/folders/1X0x-7TIHnQyagCYL9_AzavsjpO7ifNEy)  
+🔗 [Project Document Link](https://drive.google.com/drive/folders/1X0x-7TIHnQyagCYL9_AzavsjpO7ifNEy) [Project ppt.pdf](https://github.com/user-attachments/files/19166143/Project.ppt.pdf)
+ 
 📹 **Project Demo** – !
 
 ## 💡 How to Use
